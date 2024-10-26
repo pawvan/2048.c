@@ -1,7 +1,7 @@
 2048.c
 ======
 
-![screenshot](screenshot.png)
+![screenshot](ss.png)
 
 Usage
 -----
